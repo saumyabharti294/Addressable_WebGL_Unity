@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: 'DLC '
+  m_EditorClassIdentifier: 
+  m_GroupName: 'DLC '
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9950d830a52599845b6ff0cb1ae09f00
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fe852646c85eb274da293d616ef5aa5e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 10fd598b4fc0a464ba0b822eb9936c42, type: 2}
+    - {fileID: 11400000, guid: ca996b7819e6d454a9b2d2b85e30faf2, type: 2}
